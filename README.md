@@ -1,4 +1,4 @@
-<h2 align="center"><b>🦉<img src="wlc.gif">🦉</b></h2>
+<h2 align="center"><b>🦉🦉<img src="wlc.gif"></b></h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallabroy-cy&theme=juicyfresh" alt="pallabroy-cy" /></a> </p>
 
 <h2 align="center" style="background-color:rgb(20, 0, 73)"><b>🕸️Technologies and Tools🕸️</b></h2>
