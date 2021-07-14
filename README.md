@@ -6,5 +6,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallabroy-cy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pallabroy-cy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallabroy-cy&hide=contribs,prs,stars&theme=tokyonight" alt="pallabroy-cy" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallabroy-cy&hide=contribs,prs,stars&theme=tokyonight" alt="pallabroy-cy" /></p> -->
+<p align="left">
+  <img src="https://metrics.lecoq.io/pallabroy-cy?template=classic">
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pallabroy-cy&label=PROFILE+VIEWS&color=blueviolet&style=plastic" alt="pallabroy-cy" /> </p>
